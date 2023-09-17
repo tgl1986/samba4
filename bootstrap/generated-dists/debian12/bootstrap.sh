@@ -33,13 +33,14 @@ apt-get -y install \
     glusterfs-common \
     gnutls-bin \
     gzip \
-    heimdal-multidev \
+    krb5-multidev \
     hostname \
     htop \
     jq \
     krb5-config \
     krb5-kdc \
     krb5-user \
+    krb5-admin-server \
     lcov \
     libacl1-dev \
     libarchive-dev \
